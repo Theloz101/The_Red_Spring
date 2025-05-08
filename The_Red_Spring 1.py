@@ -1912,7 +1912,7 @@ def the_ritual():
          typewriter_effect("...look back.")
     thank_you()
 def thank_you():
-    typewriter_effect("Thank you for playing The Red Spring, Created by Laurence, Caitlin, Mohammed and Chris")
+    typewriter_effect("Thank you for playing The Red Spring.")
     sys.exit()
 player_class = choose_class()
 intro_letter()
