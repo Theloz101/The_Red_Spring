@@ -7,4 +7,6 @@ Through a D20 based probability system, the player will take on interactions, ph
   
 That said, the investigation is not without risk, and as much as excelling in the tasks can unveil the great secrets of Redspring, Non-Player-Characters remember previous interactions, and stark enough failures can lead to death.  
   
-Now, equipped with the knowledge you now possess, enter The Red Spring, unveil the dark secrets within, and, as always... Don't be a Stranger!
+Now, equipped with the knowledge you now possess, enter The Red Spring, unveil the dark secrets within, and, as always...   
+  
+Don't be a Stranger!
